@@ -1,11 +1,27 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  height: 100vh;
+}
+
 .title {
   color: red;
   font-size: 64px;
   text-align: center;
+  margin: 0;
 }
 
 .paragraph {
   color: blue;
   font-size: 32px;
   text-align: center;
+  margin: 0;
+}
+
+.image {
+  width: 250px;
+  height: 250px;
 }
