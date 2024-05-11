@@ -10,7 +10,7 @@ Projeto desenvolvido por Claudio para demonstrar como trabalhar com Git e GitHub
 
 - HTML5
 - CSS3
-- GIT
+- Git
 
 ## Conceitos de Git Abordados
 
